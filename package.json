@@ -86,7 +86,7 @@
     "jest": "21.2.1",
     "jest-enzyme": "4.0.1",
     "jest-junit-reporter": "1.1.0",
-    "moment": "2.19.1",
+    "moment": "2.19.3",
     "null-loader": "0.1.1",
     "postcss-cli": "4.1.1",
     "prettier": "1.7.4",
